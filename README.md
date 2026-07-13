@@ -13,7 +13,7 @@ A lightweight, no-nonsense World of Warcraft addon that adds a "Invite to Guild"
 
 1. Click the green **Code** button at the top of this page and click **Download ZIP**.
 2. Extract the ZIP file.
-3. Rename the extracted folder to exactly **`Ginvite`** and move it into your `Interface/AddOns/` folder.
+3. Rename the extracted folder to exactly **`MenuGinvite`** and move it into your `Interface/AddOns/` folder.
 
 ## 🛠️ How to Use
 
