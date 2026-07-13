@@ -9,12 +9,18 @@ A lightweight, no-nonsense World of Warcraft addon that adds a "Invite to Guild"
 * **Unit Frames:** Right-click target frames, party frames, or raid frames to send an invite.
 * **One-Click Simplicity:** Adds a clean "Invite to Guild" button directly into the standard interaction menu.
 
+## 📥 Installation
+
+1. Click the green **Code** button at the top of this page and click **Download ZIP**.
+2. Extract the ZIP file.
+3. Rename the extracted folder to exactly **`Ginvite`** and move it into your `Interface/AddOns/` folder.
+
 ## 🛠️ How to Use
 
-1. Target a player or find their name in chat/who list.
-2. **Right-click** their name or character frame.
-3. Click **Invite to Guild** from the dropdown menu.
-4. That's it! 
+Right-click a player's name or frame anywhere in the game and select **Invite to Guild**:
+* **In Chat:** Right-click their name in the chat log.
+* **In Who List:** Right-click their name in the `/who` results window.
+* **On Frames:** Right-click their player target frame, party frame, or raid frame.
 
 ## 📌 Requirements
-* You must have permissions within your guild to invite new members (`Guild Master` or a rank with invite privileges).
+* You must have permissions within your guild to invite new members.
