@@ -1,4 +1,4 @@
-# GInvite
+# MenuGInvite
 
 A lightweight, no-nonsense World of Warcraft addon that adds a "Invite to Guild" option directly to player dropdown menus. No commands or complex setups required.
 
