@@ -2,4 +2,4 @@
 ## Title: GInvite
 ## Notes: Adds 'Invite to Guild' to right-click menus for Chat, Frames, and Who list.
 ## Author: RebelAddons
-GInvite.lua
+MenuGInvite.lua
